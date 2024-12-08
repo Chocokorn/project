@@ -13,6 +13,5 @@
     
 [Internet of Think](https://github.com/Chocokorn/Arduino)
   - Random box program for learning subjects, programming with Arduino
+  - [Video of the program in operation](https://drive.google.com/file/d/1q5MbH_e0WMPN50BdDkdLREyhxIpLNQsQ/view?usp=drive_link)
 
-  >> [Video of the program in operation](https://drive.google.com/file/d/1q5MbH_e0WMPN50BdDkdLREyhxIpLNQsQ/view?usp=drive_link)
-  
